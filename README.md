@@ -1,6 +1,6 @@
 # JavaScript Array Functions Practice
 
-### you can use `Replit` an online IDE' 
+### you can use `Replit` an online IDE where you can run, share code 
 ### instructions: 
 1. visit [Replit](https://replit.com/login?source=home&goto=%2F%7E&code=4131df8735dfb18d74bec4e3ec48d7e22d21b8d334b6f6056fb230b05f0de52a)
 2. sign up with your email
