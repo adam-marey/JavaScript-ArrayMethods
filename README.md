@@ -43,66 +43,53 @@ const characters = [
 ];
 ```
 
-## forEach
+## forEach  [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 
 1. Log each character's name to the console.
 2. Log each character's height to the console.
 3. Log a statement about each character (e.g., "Luke Skywalker is 172 cm tall and weighs 77 kg.").
 4. Log each character's eye color.
 
-## indexOf
+## indexOf [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
 
 1. Find the index of the character with the name 'Darth Vader'.
 2. Find the index of the first character with blue eyes.
 3. Find the index of a character with a height of '150'.
 4. Determine if there's a character named 'Obi-Wan Kenobi' (Hint: check if the result is -1).
 
-## includes
+## includes   [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
 
 1. Check if there's a character with the name 'Luke Skywalker'.
 2. Check if there's a character with a mass of '85'.
 3. Check if there's a character with the eye color 'green'.
 4. Check if there's a character with the gender 'non-binary'.
 
-## SORT
+## SORT   [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
 
 1. Sort by name in reverse order.
 2. Sort by mass in descending order.
 3. Sort by height in ascending order.
 4. Sort by gender alphabetically.
 
-## MAP
+## MAP  [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 
 1. Get an array of all names
 2. Get an array of all heights
 3. Get an array of objects with just name and height properties
 4. Get an array of all first names
 
-## REDUCE
+## REDUCE  [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
 
 1. Get the total mass of all characters
 2. Get the total height of all characters
 3. Get the total number of characters in all the character names
 4. Get the total number of characters by eye color (hint. a map of eye color to count)
 
-## FILTER
+## FILTER   [mdn link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 1. Get characters with mass greater than 100
 2. Get characters with height less than 200
 3. Get all male characters
 4. Get all female characters
 
-## EVERY
-
-1. Does every character have blue eyes?
-2. Does every character have mass more than 40?
-3. Is every character shorter than 200?
-4. Is every character male?
-
-## SOME
-
-1. Is there at least one male character?
-2. Is there at least one character with blue eyes?
-3. Is there at least one character taller than 200?
-4. Is there at least one character that has mass less than 50?
 
